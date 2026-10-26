@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keyclick
-- 👀 I’m interested in learning about Data Science and Machine Learning
-- 🌱 I’m leaning more about Data Science now
-- 💞️ I’m looking to collaborate on practise projects.
-- 📫 How to reach me via github itself
+-  Hi, I’m @keyclick
+-  I’m interested in learning about Data Science and Machine Learning
+-  I’m leaning more about Data Science now
+-  I’m looking to collaborate on practise projects.
+-  How to reach me via github itself
 
 <!---
 keyclick/keyclick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
